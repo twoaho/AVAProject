@@ -70,7 +70,7 @@
   <created_date>2016&#x2f;04&#x2f;08 12&#x3a;06&#x3a;18.618</created_date>
   <modified_user>-</modified_user>
   <modified_date>2016&#x2f;04&#x2f;08 12&#x3a;06&#x3a;18.618</modified_date>
-    <key_for_session_key/>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA&#x3d;</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -117,7 +117,7 @@
     <single_statement>N</single_statement>
     <replace_variables>N</replace_variables>
     <quoteString>N</quoteString>
-    <sql>insert into &#x22;AVA&#x22;.anno_accademico values &#x28;1,&#x27;2013&#x27;,&#x27;2012&#x27;,&#x27;2012&#x2f;2013&#x27;&#x29;&#x3b;&#xa;insert into &#x22;AVA&#x22;.anno_accademico values &#x28;2,&#x27;2014&#x27;,&#x27;2013&#x27;,&#x27;2013&#x2f;2014&#x27;&#x29;&#x3b;&#xa;insert into &#x22;AVA&#x22;.anno_accademico values &#x28;3,&#x27;2015&#x27;,&#x27;2014&#x27;,&#x27;2014&#x2f;2015&#x27;&#x29;&#x3b;</sql>
+    <sql>insert into &#x22;AVA&#x22;.anno_accademico values &#x28;1, 2012, &#x27;2013&#x27;,&#x27;2012&#x27;,&#x27;2012&#x2f;2013&#x27;&#x29;&#x3b;&#xa;insert into &#x22;AVA&#x22;.anno_accademico values &#x28;2, 2013, &#x27;2014&#x27;,&#x27;2013&#x27;,&#x27;2013&#x2f;2014&#x27;&#x29;&#x3b;&#xa;insert into &#x22;AVA&#x22;.anno_accademico values &#x28;3, 2014, &#x27;2015&#x27;,&#x27;2014&#x27;,&#x27;2014&#x2f;2015&#x27;&#x29;&#x3b;&#xa;insert into &#x22;AVA&#x22;.anno_accademico values &#x28;4, 2015, &#x27;2016&#x27;,&#x27;2015&#x27;,&#x27;2015&#x2f;2016&#x27;&#x29;&#x3b;</sql>
     <set_params>N</set_params>
     <insert_field/>
     <update_field/>
